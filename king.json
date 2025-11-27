@@ -1,18 +1,14 @@
 {
   "credentials": [
     {
-      "username": "user1",
-      "password": "1234",
-      "token": "token-lb92wrozq5d", 
-      "key": "1234",
+      "token": "token-c5gexj6gwgg",
+      "key": "12345",
       "expiry": "2025-12-31T23:59:59"
     },
     {
-      "username": "user2",
-      "password": "password456",
-      "token": "token-67890efgh-xyz-5678", 
-      "key": "key-5678-valid",
-      "expiry": "2025-12-31T23:59:59"
+      "token": "token-xyz67890",
+      "key": "67890",
+      "expiry": "2026-12-31T23:59:59"
     }
   ]
 }
