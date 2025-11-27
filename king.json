@@ -1,14 +1,14 @@
 {
   "credentials": [
     {
-      "token": "token-ackld69uzxu",
+      "token": "token-o9akwzf8d4q",
       "key": "1234",
-      "expiry": "2025-11-26T06:36:59"
+      "expiry": "2025-11-27T06:36:59Z"
     },
     {
-      "token": "token-o9akwzf8d4q",
+      "token": "token-xyz67890",
       "key": "67890",
-      "expiry": "2026-12-31T23:59:59"
+      "expiry": "2026-12-31T23:59:59Z"
     }
   ]
 }
